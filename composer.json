@@ -1,0 +1,10 @@
+{
+    "name": "buley/accidents",
+    "authors": [
+        {
+            "name": "Taylor Buley",
+            "email": "taylor.buley@mcnaughton.media"
+        }
+    ],
+    "require": {}
+}
